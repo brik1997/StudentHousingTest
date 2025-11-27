@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Documents\\Fontys\\allesC#\\razor pages\\Eigen Website\\Eigen Website.csproj": {}
+    "C:\\Users\\RikHo\\source\\repos\\NewRepo\\Eigen Website\\Eigen Website.csproj": {}
   },
   "projects": {
-    "C:\\Documents\\Fontys\\allesC#\\razor pages\\Eigen Website\\Eigen Website.csproj": {
+    "C:\\Users\\RikHo\\source\\repos\\NewRepo\\Eigen Website\\Eigen Website.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Documents\\Fontys\\allesC#\\razor pages\\Eigen Website\\Eigen Website.csproj",
+        "projectUniqueName": "C:\\Users\\RikHo\\source\\repos\\NewRepo\\Eigen Website\\Eigen Website.csproj",
         "projectName": "Eigen Website",
-        "projectPath": "C:\\Documents\\Fontys\\allesC#\\razor pages\\Eigen Website\\Eigen Website.csproj",
+        "projectPath": "C:\\Users\\RikHo\\source\\repos\\NewRepo\\Eigen Website\\Eigen Website.csproj",
         "packagesPath": "C:\\Users\\RikHo\\.nuget\\packages\\",
-        "outputPath": "C:\\Documents\\Fontys\\allesC#\\razor pages\\Eigen Website\\obj\\",
+        "outputPath": "C:\\Users\\RikHo\\source\\repos\\NewRepo\\Eigen Website\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
